@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1773303082 source:c:\users\dimon\onedrive\Рабочий стол\Лаба ДУС\лаба 2\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1773303800 source:c:\users\dimon\onedrive\Рабочий стол\Лаба ДУС\лаба 2\main2.c
+	<stdlib.h>
+	<stdio.h>
+	"MYLIB.h"
+
+1772814687 c:\users\dimon\onedrive\Рабочий стол\Лаба ДУС\лаба 2\mylib.h
+
